@@ -10,7 +10,6 @@
 
 <link href="Styles/popbox.css" rel="stylesheet" type="text/css" />
    <script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.js"></script>
-  <!--<script type='text/javascript' charset='utf-8' src='scripts/jquery-1.4.1.min.js'></script>-->
   <script type='text/javascript' charset='utf-8'>
       (function () {
 
